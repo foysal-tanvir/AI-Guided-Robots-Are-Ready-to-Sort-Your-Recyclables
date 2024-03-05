@@ -7,7 +7,7 @@ The truth about recycling in many parts of the United States and much of Europe 
 
 So how much of the material that goes into the typical bin avoids a trip to landfill? For countries that do curbside recycling, the number—called the recovery rate—appears to average around 70 to 90 percent, though widespread data isn’t available. That doesn’t seem bad. But in some municipalities, it can go as low as 40 percent.
 
-What’s worse, only a small quantity of all recyclables makes it into the bins—just 32 percent in the United States and 10 to 15 percent globally. That’s a lot of material made from finite resources that needlessly goes to waste.
+What’s worse, only a small quantity of all recyclables makes it into the bins—just 32 percent in the US and 10 to 15 percent globally. That’s a lot of material made from finite resources that needlessly goes to waste.
 
 We have to do better than that. Right now, the recycling industry is facing a financial crisis, thanks to falling prices for sorted recyclables as well as a policy, enacted by China in 2018, which restricts the import of many materials destined for recycling and shuts out most recyclables originating in the United States.
 
