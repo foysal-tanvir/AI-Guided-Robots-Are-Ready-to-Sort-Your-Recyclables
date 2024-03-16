@@ -1,5 +1,5 @@
 # AI-Guided-Robots-Are-Ready-to-Sort-Your-Recyclables
-AI-Guided Robots Are Ready to Sort Your Recyclables
+AI-Guided Robots Are ready to Sort Your Recyclables
 https://spectrum.ieee.org/ai-guided-robots-are-ready-to-sort-your-recyclables
 IT’S TUESDAY NIGHT. In front of your house sits a large blue bin, full of newspaper, cardboard, bottles, cans, foil take-out trays, and empty yogurt containers. You may feel virtuous, thinking you’re doing your part to reduce waste. But after you rinse out that yogurt container and toss it into the bin, you probably don’t think much about it ever again.
 
